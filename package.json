@@ -1,0 +1,35 @@
+{
+  "name": "img-diff",
+  "version": "0.1.0",
+  "description": "Minimal dependency sync image manipulation",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/groupon/img-diff"
+  },
+  "author": {
+    "name": "Sean Massa",
+    "email": "smassa@groupon.com"
+  },
+  "publishConfig": {
+    "license": {
+      "exclude": [
+        "test",
+        "src/vendor",
+        "lib/vendor"
+      ]
+    }
+  },
+  "dependencies": {
+    "assertive": "~1.2.0",
+    "ndarray": "~1.0.8",
+    "png": "~3.0.3",
+    "zpipe": "~1.0.2"
+  },
+  "devDependencies": {
+    "mocha": "~1.14.0",
+    "coffee-script-redux": "~2.0.0-beta7",
+    "underscore": "~1.5.2",
+    "npub": "0.0.5"
+  }
+}
