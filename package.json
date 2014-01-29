@@ -24,12 +24,12 @@
     "assertive": "~1.2.0",
     "ndarray": "~1.0.8",
     "png": "~3.0.3",
-    "zpipe": "~1.0.2"
+    "zpipe": "~1.0.2",
+    "underscore": "~1.5.2"
   },
   "devDependencies": {
     "mocha": "~1.14.0",
     "coffee-script-redux": "~2.0.0-beta7",
-    "underscore": "~1.5.2",
     "npub": "0.0.5"
   }
 }
