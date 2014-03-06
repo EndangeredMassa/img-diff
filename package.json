@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/groupon/img-diff"
+    "url": "git://github.com/groupon-testium/img-diff"
   },
   "author": {
     "name": "Sean Massa",
