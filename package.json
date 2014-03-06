@@ -1,6 +1,6 @@
 {
   "name": "img-diff",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Minimal dependency sync image manipulation",
   "main": "lib/index.js",
   "repository": {
