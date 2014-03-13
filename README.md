@@ -8,6 +8,10 @@ Warning: img-diff is experimental.
 You can help us improve it by testing
 it and contributing!
 
+Keep up to date with changes
+by checking the
+[releases](https://github.com/groupon-testium/img-diff/releases).
+
 ## usage
 
 Install: `npm install img-diff`
