@@ -1,5 +1,7 @@
 # img-diff
 
+**Deprecated! This tool mostly works, but is far too slow. It will not be maintained. If you want to talk about improving or taking ownership of img-diff, open an issue.**
+
 Get the difference between two images
 with minimal dependencies.
 It depends only on `libpng`.
